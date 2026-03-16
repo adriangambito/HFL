@@ -1,0 +1,17 @@
+SEED: 42
+
+NUM_CLIENTS: 50
+BATCH_SIZE: 20
+GLOBAL_ROUNDS: 100
+LOCAL_EPOCHS: 1
+
+EDGE_SERVERS: 5
+
+K1: 15
+K2: 4
+
+TARGET_ACCURACY: 0.85
+
+
+
+DATASET: "mnist" # ["mnist", "fashion-mnist", "cifar10"]
